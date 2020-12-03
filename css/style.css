@@ -1,0 +1,163 @@
+/*
+Author: Imran Rahman Bhuyian
+mail: imran0791@gmail.com
+*/
+
+/*
+===INDEX===
+1.header Nav
+2.Banner          
+3.product section 1         
+4.product section 2         
+5.Categories         
+*/
+
+/*Global css*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: sans-serif;
+
+}
+
+.read-btn{
+    
+}
+
+.no-padding{
+    padding: 0px;
+}
+
+h1{
+    
+}
+
+h2{
+    
+}
+
+h3{
+}
+h4{
+    
+}
+
+h6{
+ color:darkorange;
+}
+p{padding-top: 20px;
+    
+}
+.btn-one{
+    background:#000;
+    color: #fff;
+    padding: 10px 30px;
+    display: block;
+    border: none;
+    border-radius: 20px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+.btn-two{
+    background:#000;
+    color: #fff;
+    padding: 10px 30px;
+    display: block;
+    border: none;
+    margin: 0 auto;
+    border-radius: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/*theme css*/
+/*header section start*/
+.nav-head{
+  background-color: #edeff1!important;
+    padding: 25px 0;
+}
+
+
+.navdiv{
+    background-color: #fff;
+}
+
+.nav-link{
+    color: #31353e;
+}
+.nav-item{
+    margin: 0px 10px;
+}
+/*header section end*/
+
+/*Banner section start*/
+.banner{
+    margin-top: 150px;
+}
+
+.banner h2{
+    padding-top: 150px;
+}
+
+
+/*Banner section end*/
+
+/*product section 1 section start*/
+
+/*Categories section start*/
+
+.categories{
+    width: 100%;
+    height: 200px;
+}
+.common {border-bottom: 6px solid darkorange;
+      width: 80px;
+      margin: 0 auto;
+}
+
+
+.div-side{
+    
+}
+.div-img{
+    display: block;
+margin: 0 auto;
+}
+.first-div{
+    width: 29%;
+background: #f1f1f1;
+margin-top: 20%;
+box-shadow: 3px 3px 25px #0000004F;
+    position: relative;
+}
+.sec-4-right{
+    float: right;
+    margin-top: -53%;
+}
+.second-div{
+    margin-bottom: 34%;
+    width: 57%;
+background: #f1f1f1;
+margin-top: 20%;
+box-shadow: 3px 3px 25px #0000004F;
+}
+.third-div{
+    width: 57%;
+background: #f1f1f1;
+margin-top: 20%;
+box-shadow: 3px 3px 25px #0000004F;
+}
+
+.sec-4-img{
+     width: 100%;
+    margin-top: -7%;
+}
+
+/*Categories section end*/
+
+
